@@ -1,0 +1,1 @@
+Hello,My name is Subash Katwal . I've created this file just to check the file opening and closing the file in the python.
